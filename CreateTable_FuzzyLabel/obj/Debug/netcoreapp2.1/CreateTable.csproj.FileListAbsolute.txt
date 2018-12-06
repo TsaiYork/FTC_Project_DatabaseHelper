@@ -8,3 +8,4 @@ C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netc
 C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.AssemblyInfo.cs
 C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.dll
 C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.pdb
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.csprojAssemblyReference.cache
