@@ -1,0 +1,8 @@
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.deps.json
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.runtimeconfig.json
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.runtimeconfig.dev.json
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.dll
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.csprojAssemblyReference.cache
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.csproj.CoreCompileInputs.cache
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.AssemblyInfoInputs.cache
+C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable_FuzzyLabel.AssemblyInfo.cs
