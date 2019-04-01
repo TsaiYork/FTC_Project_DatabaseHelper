@@ -9,3 +9,14 @@ C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netc
 C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.dll
 C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.pdb
 C:\Users\maxxz\source\repos\DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.csprojAssemblyReference.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable.deps.json
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable.runtimeconfig.json
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable.runtimeconfig.dev.json
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable.dll
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\bin\Debug\netcoreapp2.1\CreateTable.pdb
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.csprojAssemblyReference.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.csproj.CoreCompileInputs.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.AssemblyInfoInputs.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.AssemblyInfo.cs
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.dll
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\CreateTable_FuzzyLabel\obj\Debug\netcoreapp2.1\CreateTable.pdb

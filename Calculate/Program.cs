@@ -68,7 +68,7 @@ namespace Calculate
     class Program
     {
         //設定AP、RP之數量與編號
-        static List<int> APs = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+        static List<int> APs = new List<int> { 1, 2 };
 
         //暫存資料
         static List<double> allData = new List<double>();
@@ -77,7 +77,7 @@ namespace Calculate
 
         //Database 之連接字串
         //static string connStr = "server=140.122.105.178;user=user;database=ftc_project;port=3306;password=0000;SslMode=none;";
-        static string BaseUrl = "140.122.105.187:8080/";
+        static string BaseUrl = "localhost:51346/";
 
         static void Main(string[] args)
         {

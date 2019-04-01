@@ -9,3 +9,14 @@ C:\Users\maxxz\source\repos\DatabaseHelper\Calculate\bin\Debug\netcoreapp2.1\Cal
 C:\Users\maxxz\source\repos\DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.csprojAssemblyReference.cache
 C:\Users\maxxz\source\repos\DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.dll
 C:\Users\maxxz\source\repos\DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.pdb
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\bin\Debug\netcoreapp2.1\Calculate.deps.json
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\bin\Debug\netcoreapp2.1\Calculate.runtimeconfig.json
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\bin\Debug\netcoreapp2.1\Calculate.runtimeconfig.dev.json
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\bin\Debug\netcoreapp2.1\Calculate.dll
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\bin\Debug\netcoreapp2.1\Calculate.pdb
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.csprojAssemblyReference.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.AssemblyInfoInputs.cache
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.AssemblyInfo.cs
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.dll
+C:\Users\York\Desktop\FTC_Project_DatabaseHelper\Calculate\obj\Debug\netcoreapp2.1\Calculate.pdb

@@ -668,10 +668,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1001,10 +1002,11 @@
       ]
     },
     "System.Security.Principal.Windows/4.4.0": {
-      "sha512": "yNxhQZ5oJb2Q7VqNj1Af6e+9KXzHcXJdv+eE+1Lp2+FYBwmVLQs2LfQpeSfz5RxorwlV0EpNbkLatPScb+XEWw==",
+      "sha512": "ynC5BKYwhgON6WH/yPM5ZLKc19wqC13A5fl4hZa5Lf8pQwv1YmbCPKGualWSRhEoOVWH2FzZhOXauER6al4Upg==",
       "type": "package",
       "path": "system.security.principal.windows/4.4.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1040,10 +1042,11 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.4.0": {
-      "sha512": "epF1P00AFbqPy5jZx3fpEn5qwlBDZ+dck71xYc/jLibfY6BtoFKOqoj84YHcQWV9HcWb7M13aVJ61XCdK8/3XA==",
+      "sha512": "FpAgMC+BX6OOCiRebYqHP3r3aYU7o0lopPOo4zKyGc5LWXFEYRUaKtoXXvAJ3sP+IDOK/KBxZaiVAdi+QdZ0TA==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.4.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1095,23 +1098,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxxz\\.nuget\\packages\\": {},
+    "C:\\Users\\York\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxxz\\source\\repos\\DatabaseHelper\\CreateTable_FuzzyLabel\\CreateTable.csproj",
+      "projectUniqueName": "C:\\Users\\York\\Desktop\\FTC_Project_DatabaseHelper\\CreateTable_FuzzyLabel\\CreateTable.csproj",
       "projectName": "CreateTable",
-      "projectPath": "C:\\Users\\maxxz\\source\\repos\\DatabaseHelper\\CreateTable_FuzzyLabel\\CreateTable.csproj",
-      "packagesPath": "C:\\Users\\maxxz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxxz\\source\\repos\\DatabaseHelper\\CreateTable_FuzzyLabel\\obj\\",
+      "projectPath": "C:\\Users\\York\\Desktop\\FTC_Project_DatabaseHelper\\CreateTable_FuzzyLabel\\CreateTable.csproj",
+      "packagesPath": "C:\\Users\\York\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\York\\Desktop\\FTC_Project_DatabaseHelper\\CreateTable_FuzzyLabel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\maxxz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\York\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

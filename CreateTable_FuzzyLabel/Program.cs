@@ -54,7 +54,7 @@ namespace CreateTable_FuzzyLabel
         static List<int> RPs = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
 
         //Database 之連接字串
-        static string BaseUrl = "140.122.105.187:8080/";
+        static string BaseUrl = "localhost:51346/";
 
         static void Main(string[] args)
         {
